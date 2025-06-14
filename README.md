@@ -1,4 +1,19 @@
 # Introduction
-Hello everyone!
-My name is Manasi Mudadla. I am from India. I live in Harrison, New Jersey. I am pursuing Masters in Computer Sceince at New Jersey Institute of Technology. I did my bachelors in Computer Science Engineering in India. I worked as an Intern at Cognizant Technology Solutions for 6 months. My domain was Quality Engineering and Assurance with Java and Functional Testing. I executed java, python and SQL projects during the coursework. Conducted functional testing, ensuring software compliane with software requirements and manageing with the defect reports. Implemented automation ofr test cases using Selenium, Spring Framework and Java Programming Skills leading to improve the test efficiency. 
-I love learning new things and technologies.
+Hello everyone!👋
+I'm Manasi Mudadla, a Master's graduate in Computer Science from New Jersey Institute of Technology. I'm passionate about exploring how technology can solve real - world problems, specially throughdata-driven insights and intuitive user experiences. Whether it's building dashboards, developing predictive models, or designing interfaces, I enjoy turning ideas into something useful and impactful. 
+I'm always kneen to learn about new tools, experiment with emerging technologies, finf out better ways to build smart, efficient applications. My interest spans across Data Science, Web Developement, Machine Learning, and Cloud Services, and I love to create end-to-end solutions. 
+
+👩🏻‍💻 Tech Stack
+**Languages: ** Python, R, SQL, HTML, CSS, JavaScript
+**Frameworks & Libraries:** React.js, Pandas, NumPy, Scikit-learn
+**Tools:** Jupyter Notebook, Tableau, Git, VS Code, Adobe Premiere Pro
+** Specialists:** Data Analysis, Pridictive Modeling, UI/UX, Visualization
+
+🚀 Projects
+- **Colorado Motor Vehicle Sales Forecasting** - Time series forecasting and intuitive dashboards
+
+💬 Let's Connect!
+**LinkedIn: ** [linkedin.com/in/manasimudadla](https://www.linkedin.com/in/manasimudadla)
+**Email:** manasimudadla090@gmail.com
+
+Thanks for stopping by! I'm always happy to learn, build and share. 💻🌟
