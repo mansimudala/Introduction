@@ -13,7 +13,8 @@ I'm always kneen to learn about new tools, experiment with emerging technologies
 - **Colorado Motor Vehicle Sales Forecasting** - Time series forecasting and intuitive dashboards
 
 💬 Let's Connect!
+
 **LinkedIn: ** [linkedin.com/in/manasimudadla](https://www.linkedin.com/in/manasimudadla)
-**Email:** manasimudadla090@gmail.com
+**Email:** manasimudadla0902@gmail.com
 
 Thanks for stopping by! I'm always happy to learn, build and share. 💻🌟
