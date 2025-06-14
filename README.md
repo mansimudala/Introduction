@@ -4,10 +4,10 @@ I'm Manasi Mudadla, a Master's graduate in Computer Science from New Jersey Inst
 I'm always kneen to learn about new tools, experiment with emerging technologies, finf out better ways to build smart, efficient applications. My interest spans across Data Science, Web Developement, Machine Learning, and Cloud Services, and I love to create end-to-end solutions. 
 
 👩🏻‍💻 Tech Stack
-**Languages: ** Python, R, SQL, HTML, CSS, JavaScript
+**Languages:** Python, R, SQL, HTML, CSS, JavaScript
 **Frameworks & Libraries:** React.js, Pandas, NumPy, Scikit-learn
 **Tools:** Jupyter Notebook, Tableau, Git, VS Code, Adobe Premiere Pro
-** Specialists:** Data Analysis, Pridictive Modeling, UI/UX, Visualization
+**Specialists:** Data Analysis, Pridictive Modeling, UI/UX, Visualization
 
 🚀 Projects
 - **Colorado Motor Vehicle Sales Forecasting** - Time series forecasting and intuitive dashboards
